@@ -25,6 +25,11 @@ Thank you very much for visiting my profile!
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white">
 
+## ⚡ Database 
+<img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">   
 
 ## ⏱️ Workflow Platforms
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />    
+
+## 📱 Contact
+<a href='https://www.linkedin.com/in/inma-gonz%C3%A1lez-aguilar-a406aa2b3/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=1AABFF&color=1AABFF'/></a>
