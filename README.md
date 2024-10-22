@@ -1,3 +1,3 @@
-![banner](https://github.com/user-attachments/assets/e8c4f733-7a9d-46fa-af28-5ac937172625)
+<img width="1584" alt="bannerGit pgn" src="https://github.com/user-attachments/assets/48f53e49-c1a6-4313-960a-b2cd020dd06c">
 ---
 prueba
