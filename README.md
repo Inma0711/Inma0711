@@ -1,3 +1,4 @@
-<img width="518" alt="bannerGit" src="https://github.com/user-attachments/assets/441b0796-de92-475f-96ec-3eac2492f07a">
+<img width="792" alt="bannerPerfil" src="https://github.com/user-attachments/assets/32b07539-e4d2-4ae7-ac50-f90343e5b719">
+
 
 prueba
